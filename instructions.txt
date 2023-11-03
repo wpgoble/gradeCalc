@@ -1,0 +1,5 @@
+To start development environment
+npm run serve
+
+To build it and deploy it to the website
+npm run deploy
